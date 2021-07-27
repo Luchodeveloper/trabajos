@@ -1,0 +1,138 @@
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.container {
+    border:2px solid  black;
+    height: 600px;
+    width: 600px;
+    text-align: center;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.caja1 {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caja2 {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja3 {
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+.contenedor2 {
+    display: flex;
+    justify-content: center;
+}
+
+.container2 {
+    border:2px solid  black;
+    height: 600px;
+    width: 600px;
+    text-align: center;
+    color: #fff;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja4 {
+    background-color: rgb(255, 136, 0);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caja5 {
+    background-color: rgb(217, 255, 0);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja6 {
+    background-color: rgb(173, 0, 196);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.contenedor3 {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container3 {
+    border:2px solid  black;
+    height: 200px;
+    width: 1000px;
+    text-align: center;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+
+.caja7 {
+    background-color: rgb(0, 247, 255);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caja8 {
+    background-color: rgb(0, 0, 0);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja9 {
+    background-color: rgb(59, 0, 196);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
